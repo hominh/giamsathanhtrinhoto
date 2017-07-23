@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header-bg {
+	width:95%;
+	height:188px;
+	background-image: url("../images/header1200.jpg");
+	background-size:cover;
+}
+.content {
+	width:95%;
+	margin: 0px auto;
+}
+.map {
+	height: 100%;
+	margin: 0px;
+	padding: 0px
+}
+.tabfont {
+	font-size: 10px !important;
+}
